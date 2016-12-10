@@ -1,0 +1,68 @@
+.custom-link {
+  color: #d4af37;
+}
+
+.custom-link:hover, .custom-link:focus {
+  color: #fff;
+}
+
+.main-badge {
+  height: 350px;
+  /*height: 140px;*/
+  /*padding: 10px 10px 10px 4px;*/
+  margin-top: 40px;
+  /*margin-bottom: 50px;*/
+  border: 3px solid #d4af37;
+}
+
+.main-logo{
+	margin-top: 26px;
+	margin-bottom: 10px;
+}
+
+/*.standard-nav li > a {
+    font-family: georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 100;
+    letter-spacing: normal;
+    line-height: 19px;
+    text-transform: capitalize;
+}*/
+
+/*services*/
+.features-icon a i {
+  color: #181818;
+  padding: 22px;
+}
+
+.features-icon a > h5 {
+    margin-top: 10px;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.features-icon.current a > h5 {
+    color: #d4af37;
+}
+
+/*.features-details {
+    padding: 40px 200px;
+}*/
+
+.main-caps {
+  top: -30px;
+}
+
+.testimonial-wrap {
+  min-height: 130px;
+}
+
+.divider-lg {
+  padding: 25px 0;
+}

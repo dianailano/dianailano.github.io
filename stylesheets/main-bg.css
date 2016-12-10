@@ -1,0 +1,40 @@
+/*--------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in this template*/
+/*--------------------------------------------------------------------------*/
+
+
+.promo-section{
+	background-image: url('/images/bg/hotel.jpg');
+}
+.contact{
+	/*background-image: url('http://designova.net/odin/images/bg/002./media/jonilano/Data/Diana/images/hotel-3.jp/media/jonilano/Data/Diana/images/hotel-3.jpggjpg');*/
+	background-image: url('/images/bg/hotel.jpg');
+}
+.photography-carousel-item-01{
+	background-image: url('http://placehold.it/1500x1050');
+}
+
+.photography-carousel-item-02{
+	background-image: url('http://placehold.it/1500x1050');
+}
+
+.photography-carousel-item-03{
+	background-image: url('http://placehold.it/1500x1050');
+}
+
+.agency-carousel-item-01{
+	background-image: url('http://placehold.it/1500x1050');
+}
+
+.agency-carousel-item-02{
+	background-image: url('http://placehold.it/1500x1050');
+}
+
+.agency-carousel-item-03{
+	background-image: url('http://placehold.it/1500x1050');
+}
+
+/*Mobile Menu Logo*/
+.menu-collapser {
+    background-image: url('../images/logo-dark.png');
+}
